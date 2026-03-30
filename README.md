@@ -25,6 +25,9 @@ Classification model predicting whether a loan application will be approved.
 ### 7. Customer Churn Prediction
 Machine learning model predicting whether a customer is likely to leave a service.
 
+### 8. RNN sentiment analysis
+Machine learning model predicting the sentiment of user on IMDB dataset.
+
 ## Tools & Libraries
 Python  
 Pandas  
